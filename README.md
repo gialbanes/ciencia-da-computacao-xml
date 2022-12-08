@@ -1,2 +1,2 @@
-# ciencia-da-computacao-xml
-Site sobre a profissão de ciência da computação 
+# ciencia-da-computacao
+Trabalho para feira de profissões 2022 (ETEC)
