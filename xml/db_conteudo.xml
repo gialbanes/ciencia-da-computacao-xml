@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+    <postagem>
+        <titulo>Como funciona o bilionário negócio
+        de venda de terras no metaverso?</titulo>
+        <corpo>Quase US$ 2 bilhões foram investidos no ano passado em lotes de terra virtuais no metaverso.
+               Corporações, especuladores e indivíduos estão apostando na ideia de que muitos de nós em breve estaremos vivendo parte de nossas vidas no metaverso.
+               Neste vídeo, você vai entender como este mercado funciona e ouvir depoimentos como o do estilista alemão Philipp Plein, que gastou US$ 1,5 milhão em um terreno em Decentraland, uma das dezenas de mundos virtuais que se descrevem como metaversos; e de Jae Slooten, cofundadora do ateliê de moda The Fabricant, com sede em Amsterdã, que só cria roupas para avatares — e cuja venda recorde foi um vestido digital, vendido como NFT (obra de arte digital), por US$ 19 mil.
+               A Nike e a Gucci são outros ícones da indústria da moda que estabeleceram suas marcas no metaverso, mais precisamente na plataforma de games Roblox.
+               Alguns analistas preveem que em 10 anos as pessoas vão passar seis horas por dia em mundos virtuais. Mas com tantos mundos sendo desenvolvidos, não está claro quais vão prevalecer.
+        </corpo>
+        <imagem_1>img3.webp</imagem_1>
+    </postagem>
+
+    <postagem>
+        <titulo>Os mitos e a realidade sobre os computadores quânticos</titulo>
+        <corpo>Em outubro de 2019, a computação quântica ocupou por vários dias as manchetes de todo o mundo. Uma equipe de pesquisadores da gigante tecnológica Google havia conseguido atingir a supremacia quântica, vencendo os maiores supercomputadores do planeta com um computador quântico.
+               Mais que isso: a diferença de tempo foi simplesmente esmagadora - poucos minutos, em comparação com os milhares de anos necessários para realizar o mesmo cálculo com um computador tradicional.
+               Foram dezenas de artigos e reportagens na imprensa escrita, no rádio e na televisão ecoando esse feito histórico e tentando explicar para o público não especializado no que consistia, na verdade, a proeza da Google e o que eram esses misteriosos computadores quânticos utilizados para consegui-la.
+        </corpo>
+        <imagem_1>img2.webp</imagem_1>
+    </postagem>
+
+    <postagem>
+        <titulo>O que é o teorema de Bayes, regra essencial da informática criada para 'provar milagres'?</titulo>
+        <corpo>P(A|B) = (P(B|A)P(A))/P(B)
+               Certamente a frase acima não é a maneira mais comum nem a mais clara de iniciar uma reportagem. É disso, no entanto, que vamos falar aqui. Algo que, como diz o título deste texto, está ligado à informática e a milagres.
+               Trata-se do teorema de Bayes. Ainda que muitos de nós não tenhamos ouvido falar dele, as estatísticas bayesianas permearam tudo, da física - com interpretações bayesianas da mecânica quântica e defesas bayesianas das teorias de cordas e do multiverso - às pesquisas sobre câncer e covid, passando por ecologia, filosofia, neurologia, psicologia, além da informática.
+               Há até cientistas cognitivos que consideraram que nossos cérebros incorporam algoritmos bayesianos ao perceber, deliberar e tomar decisões. Apaixonados pelo teorema dizem que, se adotarmos o raciocínio bayesiano consciente (mais além do processamento bayesiano inconsciente, que nosso cérebro supostamente emprega), o mundo seria melhor.
+        </corpo>
+        <imagem_1>img1.webp</imagem_1>
+    </postagem>
+</conteudo>
